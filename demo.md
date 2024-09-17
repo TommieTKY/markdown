@@ -31,4 +31,16 @@ This is a link to [my portfolio](https://github.com/TommieTKY).
 
 ## Images
 
+A beautiful flower at night:
 ![A beautiful flower at night](flower.jpg)
+
+## Code
+
+We can put inline code by using a tic.
+To add an image use an '<img>' tag.
+You can add multi-line code by using three tics and the name of the coding language:
+'''
+function test(){
+console.log("test");
+}
+'''
