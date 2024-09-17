@@ -27,4 +27,8 @@ This is an unordered list:
 
 ## Links
 
-This is a link to [my portfolio](https://github.com/TommieTKY)
+This is a link to [my portfolio](https://github.com/TommieTKY).
+
+## Images
+
+![A beautiful flower at night](flower.jpg)
