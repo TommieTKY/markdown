@@ -6,6 +6,6 @@
 
 ---
 
-[Home](index)
-[Projects](projects)
+[Home](index) |
+[Projects](projects) |
 [Contact]()

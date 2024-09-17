@@ -6,6 +6,6 @@ I am currently studying Web Development in Humber College.
 
 ---
 
-[Home]()
-[Projects](projects)
+[Home]() |
+[Projects](projects) |
 [Contact](contact)
