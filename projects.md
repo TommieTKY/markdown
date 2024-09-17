@@ -1,3 +1,9 @@
 # My projects
 
-Here are the project that I did.
+Here are the projects that I did...
+
+---
+
+[Home](index)
+[Projects]()
+[Contact](contact)
